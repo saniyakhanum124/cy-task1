@@ -1,18 +1,18 @@
-# Nmap 7.98 scan initiated Mon Sep 22 19:11:54 2025 as: nmap -sS -oN results.txt 192.168.43.0/24
-Nmap scan report for 192.168.43.52
+# Nmap 7.98 scan initiated Mon Sep 22 19:11:54 2025 as: nmap -sS -oN results.txt 192.168.xx.xx
+Nmap scan report for 192.168.xx.xx
 Host is up (0.040s latency).
 Not shown: 999 closed tcp ports (reset)
 PORT   STATE SERVICE
 53/tcp open  domain
-MAC Address: 34:E9:11:C1:7C:91 (vivo Mobile Communication)
+MAC Address: 34:E9:11:C1:7C:91 (xxxx Mobile Communication)
 
-Nmap scan report for V2247 (192.168.43.119)
+Nmap scan report for xxxxx (192.168.xx.xxx)
 Host is up (0.043s latency).
-All 1000 scanned ports on V2247 (192.168.43.119) are in ignored states.
+All 1000 scanned ports on xxxx (192.168.xx.xxx) are in ignored states.
 Not shown: 1000 closed tcp ports (reset)
 MAC Address: 26:D2:2C:D5:FF:08 (Unknown)
 
-Nmap scan report for 192.168.43.118
+Nmap scan report for 192.168.xx.xx
 Host is up (0.0011s latency).
 Not shown: 996 closed tcp ports (reset)
 PORT     STATE SERVICE
@@ -22,3 +22,4 @@ PORT     STATE SERVICE
 5357/tcp open  wsdapi
 
 # Nmap done at Mon Sep 22 19:12:09 2025 -- 256 IP addresses (3 hosts up) scanned in 15.40 seconds
+
